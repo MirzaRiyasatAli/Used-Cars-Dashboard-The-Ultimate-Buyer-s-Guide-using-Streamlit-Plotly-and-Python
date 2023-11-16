@@ -54,8 +54,4 @@ Feel free to explore and share your thoughts! 🚗💻
 
 Feel free to contribute to enhance this dashboard or address issues. Fork the repository, create a new branch, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Happy exploring in your used car purchase journey! 🚗💡
